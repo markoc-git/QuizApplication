@@ -31,4 +31,3 @@ public class RetrofitClient {
         return getRetrofit().create(QuizApiService.class);
     }
 }
-

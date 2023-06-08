@@ -64,5 +64,9 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
     androidTestImplementation 'androidx.test:runner:1.5.2'
 
+    testImplementation 'org.mockito:mockito-core:4.8.1' // Replace x.x.x with the desired version of Mockito
+    androidTestImplementation 'org.mockito:mockito-android:4.8.1' // Replace x.x.
+    implementation 'androidx.arch.core:core-testing:2.2.0'
+
 }
 

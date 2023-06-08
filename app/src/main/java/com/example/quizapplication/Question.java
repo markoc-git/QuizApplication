@@ -1,8 +1,8 @@
 package com.example.quizapplication;
 
-import java.util.List;
-
 import com.google.gson.annotations.SerializedName;
+
+import java.util.List;
 
 public class Question {
     @SerializedName("question")
