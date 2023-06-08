@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <runningDeviceTargetSelectedWithDropDown>
+      <Target>
+        <type value="RUNNING_DEVICE_TARGET" />
+        <deviceKey>
+          <Key>
+            <type value="VIRTUAL_DEVICE_PATH" />
+            <value value="C:\Users\cerov\.android\avd\Pixel_5_API_UpsideDownCake.avd" />
+          </Key>
+        </deviceKey>
+      </Target>
+    </runningDeviceTargetSelectedWithDropDown>
+    <timeTargetWasSelectedWithDropDown value="2023-06-07T22:34:29.026872500Z" />
+    <runningDeviceTargetsSelectedWithDialog>
+      <Target>
+        <type value="RUNNING_DEVICE_TARGET" />
+        <deviceKey>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="19f49f4b2191" />
+          </Key>
+        </deviceKey>
+      </Target>
+    </runningDeviceTargetsSelectedWithDialog>
+    <targetsSelectedWithDialog>
+      <Target>
+        <type value="QUICK_BOOT_TARGET" />
+        <deviceKey>
+          <Key>
+            <type value="VIRTUAL_DEVICE_PATH" />
+            <value value="C:\Users\cerov\.android\avd\Pixel_5_API_UpsideDownCake.avd" />
+          </Key>
+        </deviceKey>
+      </Target>
+    </targetsSelectedWithDialog>
+  </component>
+</project>
